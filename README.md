@@ -1,2 +1,2 @@
 # Deep-Learning
-Codes relates to deep learning
+Codes related to deep learning
